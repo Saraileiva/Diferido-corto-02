@@ -1,0 +1,7 @@
+C:\Users\DEI-PC-LAB\Desktop\MiPrimerClonación\CortoPoo1\Cp2\Cp2\bin\Debug\Cp2.exe
+C:\Users\DEI-PC-LAB\Desktop\MiPrimerClonación\CortoPoo1\Cp2\Cp2\bin\Debug\Cp2.pdb
+C:\Users\DEI-PC-LAB\Desktop\MiPrimerClonación\CortoPoo1\Cp2\Cp2\obj\Debug\Cp2.csproj.AssemblyReference.cache
+C:\Users\DEI-PC-LAB\Desktop\MiPrimerClonación\CortoPoo1\Cp2\Cp2\obj\Debug\Cp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DEI-PC-LAB\Desktop\MiPrimerClonación\CortoPoo1\Cp2\Cp2\obj\Debug\Cp2.csproj.CoreCompileInputs.cache
+C:\Users\DEI-PC-LAB\Desktop\MiPrimerClonación\CortoPoo1\Cp2\Cp2\obj\Debug\Cp2.exe
+C:\Users\DEI-PC-LAB\Desktop\MiPrimerClonación\CortoPoo1\Cp2\Cp2\obj\Debug\Cp2.pdb
